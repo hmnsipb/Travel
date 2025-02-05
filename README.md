@@ -1,2 +1,1 @@
-[Travel](https://hmnsipb.github.io/Travel/)
-Travel Website
+https://hmnsipb.github.io/Travel/
